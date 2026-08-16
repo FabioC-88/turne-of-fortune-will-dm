@@ -20,9 +20,9 @@
 - **Livello di picco (temporaneo):** 17° nei cap. 14-15 — vedi "Potere in Prestito" sotto
 - **Livello di uscita reale:** 10° (dopo la Conclusion) — per compatibilità con `vecna-eve-of-ruin-dm`
 - **Party:** TBD (nomi/ruoli da definire con `/setup-campagna`)
-- **Stato:** Preparazione — Sessioni 1-2 pronte in anticipo (party TBD), Sessione 3 da preparare
+- **Stato:** ✅ Tutte le sessioni preparate in anticipo (1-15, party TBD) — copertura completa del libro dall'Introduzione alla Conclusion. Sessione 12 = toolkit opzionale cap. 12 (non lineare, nessun level up). Sessione 15 = finale di campagna (cap. 15 + Conclusion), applica il level-down homebrew 17°→10° a metà sessione. Nessuna sessione resta da preparare finché il party non è definito (a quel punto: ri-eseguire l'Agente 3 su tutte le sessioni 1-15 per aggiungere hook personali)
 - **Durata Media Sessioni:** ~3 ore
-- **Capitolo corrente:** 2
+- **Capitolo corrente:** 15 (finale — vedi Sessione 15 per il level-down homebrew a fine capitolo)
 - **Numero Capitoli Totali:** 15 (+ Introduzione e Conclusion)
 
 ---
@@ -93,6 +93,18 @@ I PG sono vittime di un glitch multiversale: hanno vaghi ricordi di vite multipl
 ### Il Mosaic Mimir
 Dispositivo magico che i PG riparano e aggiornano gate-town dopo gate-town nella Parte 2, registrando le loro impressioni sull'Outlands. I dati raccolti (accurati / inconsistenti / distorti) determinano l'esito del cap. 15 e della Conclusion — tienine traccia sessione per sessione.
 
+**Mimir Restoration Tracker** (aggiorna dopo ogni gate-town visitato — vedi `dm-notes-sessione-04.md` FASE 5 per le regole):
+
+| Gate-town | Visitato (sessione) | Resoconto registrato | Accurato / Distorto |
+|-----------|---------------------|----------------------|----------------------|
+| Automata | — | — | — |
+| Curst | — | — | — |
+| Excelsior | — | — | — |
+| Faunel | — | — | — |
+| Glorium | — | — | — |
+| Rigus | — | — | — |
+| Sylvania | — | — | — |
+
 ---
 
 ## Collegamento al Culto di Vecna
@@ -119,6 +131,8 @@ Questa campagna è l'**Atto IV** del filo narrativo che il DM usa per collegare 
 | Dustman (agente di Vecna) | Agente segreto del Culto di Vecna | Cap. 1-3 | Heralds of Dust / Culto di Vecna |
 | Farrow | Spia shadar-kai al servizio di Shemeshka (segreto — rivelato cap. 14) | Cap. 2 | Fortune's Wheel (in incognito) |
 | Parisa | Tout bariaur di Sigil | Cap. 2 | Indipendente |
+| Zaythir | Custode githzerai del castello errante Iedcaru | Cap. 4 | Indipendente |
+| Il Castellano | Essere magico che pilota Iedcaru | Cap. 4 | Iedcaru |
 
 *(elenco minimo — arricchisci man mano che emergono altri PNG durante la preparazione delle sessioni)*
 
