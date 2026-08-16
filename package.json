@@ -1,0 +1,16 @@
+{
+  "name": "turne-of-fortune-will-dm-builder",
+  "version": "1.0.0",
+  "description": "Build script per generare Compendium Packs Foundry VTT da file Markdown",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node build-foundry.mjs"
+  },
+  "dependencies": {
+    "marked": "^14.0.0"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.3"
+  }
+}

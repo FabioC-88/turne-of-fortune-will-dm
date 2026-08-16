@@ -1,0 +1,8 @@
+# Dipendenze Node.js
+node_modules/
+
+# JSON sorgente auto-generati dallo script di build (riproducibili)
+src/
+
+# Pack LevelDB compilati — questi vanno committati per funzionare in Foundry
+# (non ignorare packs/)
