@@ -69,6 +69,8 @@ I testi marcati come `[BOXED TEXT]` (o già in blockquote `>`) sono i **read-alo
 - **Shemeshka the Marauder:** teatrale, manipolatrice, si considera il centro del multiverso e non perde occasione per dirlo. Parla come una padrona di casa che gioca a fare la vittima quando le conviene. Non alza mai la voce — usa il sarcasmo secco. *("Where's the center of the multiverse? Me. I'm the center of the multiverse. And not because of some philosophical brainteaser. Because I'm making it so.")*
 - **R04M:** monodrone — letterale, essenziale, ripete formule fisse ("bounty hunters are coming to claim me for justice"). Non usa metafore, non capisce l'ironia, riporta i fatti senza filtro emotivo.
 - **Colcook:** concierge dei Platinum Rooms — untuoso e cortese fino all'eccesso, sempre pronto a offrire qualcosa in cambio di un favore. Non alza mai un dito da solo se può farlo fare a qualcun altro.
+- **Farrow:** spia shadar-kai di Shemeshka (cap. 2+) — camaleontica, calorosa in superficie ma sempre calcolatrice. Nella propria forma vera parla poco e osserva molto; nei travestimenti (Aza Dowling, Josbert Plum, Kal the Crisp) si perde completamente nel ruolo, con toni e manie diverse per ciascuno. Non rivela mai per chi lavora — cambia discorso con un sorriso, mai con la difensiva.
+- **Parisa:** tout bariaur di Sigil (cap. 2) — spavalda, un po' impertinente, parla per idiomi da veterana della città ("È stordente, vero?"). Sotto la sfacciataggine da guida turistica nasconde un timore reale dell'Harmonium e della "Prigione" — non approfondire il motivo finché il libro non lo richiede.
 - Per ogni nuovo PNG ricorrente incontrato in sessione, aggiungi una voce a questa lista (proponi tu la caratterizzazione al DM se manca).
 
 ### Fase 3 — Nota dell'Editor

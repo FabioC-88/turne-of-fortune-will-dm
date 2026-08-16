@@ -20,9 +20,9 @@
 - **Livello di picco (temporaneo):** 17° nei cap. 14-15 — vedi "Potere in Prestito" sotto
 - **Livello di uscita reale:** 10° (dopo la Conclusion) — per compatibilità con `vecna-eve-of-ruin-dm`
 - **Party:** TBD (nomi/ruoli da definire con `/setup-campagna`)
-- **Stato:** Preparazione — Sessione 1 da pianificare
+- **Stato:** Preparazione — Sessioni 1-2 pronte in anticipo (party TBD), Sessione 3 da preparare
 - **Durata Media Sessioni:** ~3 ore
-- **Capitolo corrente:** 0
+- **Capitolo corrente:** 2
 - **Numero Capitoli Totali:** 15 (+ Introduzione e Conclusion)
 
 ---
@@ -117,6 +117,8 @@ Questa campagna è l'**Atto IV** del filo narrativo che il DM usa per collegare 
 | Colcook | Concierge dei Platinum Rooms | Cap. 14 | Fortune's Wheel |
 | X01 | Hexton modron, leader del contingente smarrito | Cap. 15 | Mechanus |
 | Dustman (agente di Vecna) | Agente segreto del Culto di Vecna | Cap. 1-3 | Heralds of Dust / Culto di Vecna |
+| Farrow | Spia shadar-kai al servizio di Shemeshka (segreto — rivelato cap. 14) | Cap. 2 | Fortune's Wheel (in incognito) |
+| Parisa | Tout bariaur di Sigil | Cap. 2 | Indipendente |
 
 *(elenco minimo — arricchisci man mano che emergono altri PNG durante la preparazione delle sessioni)*
 
