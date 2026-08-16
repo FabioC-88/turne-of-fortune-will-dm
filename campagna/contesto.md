@@ -17,7 +17,7 @@
 - **Livello di uscita reale:** 10° (dopo la Conclusion) — per compatibilità con `vecna-eve-of-ruin-dm`
 - **Party:** TBD (nomi/ruoli da definire con `/setup-campagna`)
 - **Stato:** Preparazione — Sessione 1 da pianificare
-- **Durata Media Sessioni:** TBD
+- **Durata Media Sessioni:** ~3 ore
 - **Capitolo corrente:** 0
 - **Numero Capitoli Totali:** 15 (+ Introduzione e Conclusion)
 
@@ -37,7 +37,11 @@ Arcanaloth, information broker e proprietaria di Fortune's Wheel, il casinò pla
 |-----------|---------|---------------|---------------|------------------|
 | TBD | TBD | TBD | TBD | TBD |
 
-> Meccanica *Glitch Characters*: ogni PG ha 3 incarnazioni intercambiabili (stesso livello, tratti/classe potenzialmente diversi), unite da una **Nexus Feature** condivisa (cicatrice, simbolo, arma, acconciatura). Quando un'incarnazione muore, il giocatore ne sceglie un'altra, che riappare poco dopo altrove — mai in combattimento. Da compilare con `/setup-campagna`.
+> Meccanica *Glitch Characters*: ogni PG ha 3 incarnazioni intercambiabili (stesso livello, tratti/classe potenzialmente diversi), unite da una **Nexus Feature** condivisa (cicatrice, simbolo, arma, acconciatura). Quando un'incarnazione muore, il giocatore ne sceglie un'altra, che riappare poco dopo altrove — mai in combattimento.
+>
+> **Gestione scelta:** *Surprise Incarnations* (opzione consigliata dal libro) — ogni giocatore crea **un solo PG** all'inizio della campagna. Le altre 2 incarnazioni si creano al tavolo, insieme al giocatore, la prima volta che quel personaggio muore. Non anticipare ai giocatori questo meccanismo prima che lo scoprano in gioco.
+>
+> Elenco giocatori/PG da compilare con `/setup-campagna` quando il party sarà definito.
 
 ---
 
@@ -65,7 +69,7 @@ Arcanaloth, information broker e proprietaria di Fortune's Wheel, il casinò pla
 
 **Nota sull'ordine della Parte 2:** i capitoli 5-11 (i sette gate-town) sono giocabili in ordine libero — il libro stesso lo tratta come un tour semi-modulare. Il DM sceglie l'ordine (o lo lascia decidere ai PG in base a dove porta il castello Iedcaru). Registra l'ordine scelto qui sotto quando definito.
 
-**Ordine scelto per questa campagna:** TBD
+**Ordine scelto per questa campagna:** ordine del libro — Automata → Curst → Excelsior → Faunel → Glorium → Rigus → Sylvania.
 
 ---
 
