@@ -4,7 +4,7 @@
 
 - **Fonte primaria:** `fonti/campagna/Turn of Fortune's Wheel.md` — Cap. 2: *Philosophers with Clubs* (righe 351-556)
 - **Sessione precedente:** `dm-notes-sessione-01.md` (Cap. 1: *Grave Escape*)
-- **Livello party:** 3° all'inizio della sessione → 4° alla fine del capitolo (livello di partenza da `campagna/contesto.md` — **party non ancora definito**, vedi nota sotto)
+- **Livello party:** 4° per tutto il capitolo (level up 3°→4° avvenuto secondo la nota di chiusura del cap. 1 — vedi `dm-notes-sessione-01.md` — **party non ancora definito**, vedi nota sotto)
 - **XP accumulati:** 0 (nessuna sessione ancora giocata al momento della preparazione)
 - **Obiettivo sessione:** i PG escono nella Sigil vera e propria, la esplorano in libertà con la guida di Parisa, vengono braccati dagli Harmonium, incontrano la spia Farrow e attraversano Undersigil fino a Fortune's Wheel.
 - **Durata stimata:** ~3 ore
@@ -12,7 +12,7 @@
 > **⚠️ NOTA — Party TBD.** Questa sessione è stata preparata in anticipo, prima che il party fosse
 > definito (autorizzato dal DM — vedi `ai/agents/AGENTS.md`). Non contiene hook personali né
 > hook di missione: sono contenuti generici, pronti da giocare con qualunque gruppo di 3-6
-> personaggi di 3° livello. Quando il party sarà definito, ri-esegui l'Agente 3
+> personaggi di 4° livello. Quando il party sarà definito, ri-esegui l'Agente 3
 > (`03-session-pc-integrator.agent.md`) su questo file per aggiungere spotlight e note riservate
 > specifiche dei PG.
 
@@ -415,7 +415,7 @@ Chiudi la sessione qui: i PG sono davanti a Fortune's Wheel, pronti a varcarne l
 prossima sessione, dove incontreranno la proprietaria del casinò in persona.
 
 **Qui finisce il capitolo 2.** Per la progressione standard del libro, ogni PG guadagna un livello
-prima di iniziare la sessione successiva (3° → 4°).
+prima di iniziare la sessione successiva (4° → 5°).
 
 ---
 
@@ -460,6 +460,7 @@ Dopo aver giocato questa sessione:
 | 7 | Hook PG / Spotlight | — | N/A — party TBD, Agente 3 saltato (vedi nota in testa al file) |
 | 8 | Missioni | — | N/A — nessuna missione secondaria in questa campagna |
 | 9 | Terminologia | Tutto il documento | Nomi propri (Fortune's Wheel, Undersigil, Ragpicker's Square, Hive/Lady's/Market/Clerks' Ward) mantenuti in inglese secondo convenzione della campagna; meccaniche di gioco tradotte in italiano |
+| 10 | Continuità | Metadati, chiusura capitolo | **Correzione post-pubblicazione:** il level up del libro si applica all'*inizio* del capitolo successivo alla nota di chiusura, non a metà/fine dello stesso capitolo. Corretto "Livello party" da "3°→4° durante il capitolo" a "4° per tutto il capitolo" (il salto 3°→4° è avvenuto alla chiusura del cap. 1) e la nota finale di chiusura da "3° → 4°" (errato, duplicato) a "4° → 5°" (corretto, coerente con `campagna/contesto.md`) |
 
-**Totale correzioni applicate:** 7 (righe 1, 2, 3, 6 sono verifiche/note di continuità non correttive)
+**Totale correzioni applicate:** 8 (righe 1, 2, 3, 6 sono verifiche/note di continuità non correttive)
 **Stato:** ✅ Pronto per commit (party TBD — hook personali da aggiungere quando disponibile)
