@@ -4,6 +4,10 @@
 > Aggiorna dopo ogni sessione rilevante. Consultato da tutti gli agenti come fonte di verità.
 > Le sezioni Villain/Tabella Capitoli/Meccaniche sono già pre-compilate dalla lettura del libro.
 > Le sezioni Party sono TBD — completale con `/setup-campagna`.
+>
+> **Party TBD non blocca `/prep-sessione`:** il DM prepara sessioni in anticipo, anche prima che
+> il party sia definito. La pipeline lo gestisce (vedi `ai/agents/AGENTS.md`) saltando solo gli
+> step che dipendono da PG specifici, senza fermarsi né inventare personaggi.
 
 ---
 

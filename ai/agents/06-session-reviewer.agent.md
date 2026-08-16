@@ -63,13 +63,18 @@ Se qualcosa manca, **aggiungila** usando come modello dm-notes-sessione-01.md.
 
 #### 2B — Verifica coerenza con sessione precedente
 
+> **Se `campagna/party.md` è ancora TBD:** i controlli su livello/incarnazioni/XP/atteggiamenti
+> PNG verso PG specifici non sono applicabili — non sono errori da correggere, sono semplicemente
+> `N/A` finché il party non è definito. Segna quelle righe come "N/A — party TBD" nel Changelog
+> invece di provare a inventare valori plausibili. Non bloccare la revisione per questo.
+
 Confronta con dm-notes-sessione-XX.md (ultima sessione):
 
 - [ ] **Apertura:** il SETUP INIZIALE riprende correttamente da dove si è fermata l'ultima sessione?
-- [ ] **PNG:** i personaggi non giocanti che compaiono hanno atteggiamenti coerenti con l'ultima sessione?
-- [ ] **Livello party:** il livello indicato nell'header è corretto rispetto a party.md?
-- [ ] **Incarnazioni:** se un PG è morto nell'ultima sessione, la sessione corrente usa l'incarnazione corretta (scelta dal giocatore, coerente con party.md)?
-- [ ] **XP:** gli XP accumulati corrispondono a quelli in party.md?
+- [ ] **PNG:** i personaggi non giocanti che compaiono hanno atteggiamenti coerenti con l'ultima sessione? *(N/A se party TBD)*
+- [ ] **Livello party:** il livello indicato nell'header è corretto rispetto a party.md, o al livello di partenza da contesto.md se party.md è TBD?
+- [ ] **Incarnazioni:** se un PG è morto nell'ultima sessione, la sessione corrente usa l'incarnazione corretta (scelta dal giocatore, coerente con party.md)? *(N/A se party TBD)*
+- [ ] **XP:** gli XP accumulati corrispondono a quelli in party.md? *(N/A se party TBD)*
 - [ ] **Plot hook:** i thread narrativi lasciati aperti nell'ultima sessione trovano seguito (o sono esplicitamente rimandati)?
 - [ ] **Oggetti/risorse:** eventuali oggetti ottenuti nell'ultima sessione sono stati considerati?
 

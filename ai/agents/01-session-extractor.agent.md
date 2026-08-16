@@ -88,7 +88,8 @@ Produce un documento con questa struttura:
 - Fonte primaria: fonti/campagna/ — [titolo sezione, range approssimativo]
 - Sessione precedente: dm-notes-sessione-XX.md
 - Durata stimata: ~Xh Ymin
-- Livello party: [da party.md]
+- Livello party: [da party.md; se `campagna/party.md` è ancora TBD, usa il "Livello di partenza"
+  di `campagna/contesto.md` e annota "party non ancora definito — livello presunto"]
 
 ## Marker di Partenza
 [Descrizione di dove si è fermata la sessione precedente]
@@ -127,6 +128,8 @@ fonti/campagna/                            ← Fonte primaria da estrarre (libro
 
 ## Vincoli
 
+- **Non bloccarti se il party è TBD.** Questo agente non dipende da `campagna/party.md`: estrai
+  e struttura il chunk normalmente, usando il livello di partenza da `contesto.md` come stima.
 - **Non tradurre** nulla — l'output è in inglese (il testo originale) più annotazioni in italiano.
 - **Non espandere** il materiale — estrai solo ciò che è nel manuale.
 - **Non saltare** testi boxed `>>` — anche se sembrano banali, devono essere inclusi e marcati.

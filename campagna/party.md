@@ -1,6 +1,9 @@
 # Party — Turn of Fortune's Wheel
 
 > [TODO: da compilare tramite `/setup-campagna`. I giocatori e i PG non sono ancora stati definiti.]
+> **Questo non blocca la preparazione delle sessioni:** `/prep-sessione` può girare comunque in
+> anticipo — vedi la nota in `contesto.md` e `ai/agents/AGENTS.md`. Gli hook personali si
+> aggiungono in un secondo momento, quando il party sarà definito.
 
 | Giocatore | Nome PG | Razza / Classe | Livello | XP | HP | Incarnazione attiva | Gancio Attivo |
 |-----------|---------|----------------|---------|-----|-----|---------------------|----------------|

@@ -5,7 +5,10 @@ description: >
   Fortune's Wheel. Usa questa skill ogni volta che il DM vuole preparare una nuova sessione di
   gioco, anche se scrive semplicemente "/prep-sessione" o "prepara la sessione" o "prossima
   sessione". Esegue in sequenza gli agenti 1→2→3→4→2→6 e opzionalmente 5 (chapter-png-briefer a
-  cambio capitolo). Produce il file dm-notes-sessione-NN.md pronto per il tavolo.
+  cambio capitolo). Produce il file dm-notes-sessione-NN.md pronto per il tavolo. FUNZIONA ANCHE
+  SE IL PARTY NON È ANCORA DEFINITO (campagna/party.md = TBD): non bloccarti e non chiedere
+  conferma per preparare sessioni in anticipo, il DM lo ha già autorizzato esplicitamente — in
+  quel caso lo Step 3 si autodisattiva e produce comunque una sessione completa ma generica.
 ---
 
 # Pipeline Preparazione Sessione — /prep-sessione
@@ -15,6 +18,12 @@ preparazione di una sessione completa eseguendo in sequenza tutti gli agenti def
 
 **Prima di iniziare:** se il numero della sessione target non è stato specificato, chiedi al DM.
 Il numero si trova contando i file in `campagna/sessioni/dm-notes-sessione-*.md` + 1.
+
+**Se `campagna/party.md` è ancora `TBD`:** esegui comunque l'intera pipeline. Non è un blocco, è
+un caso normale — il DM prepara sessioni in anticipo prima di avere il party al tavolo. Prosegui
+fino in fondo; solo lo Step 3 (e, di riflesso, parte dello Step 6b) produce meno contenuto perché
+non ci sono PG a cui agganciare hook personali. Non fermarti per chiedere conferma e non inventare
+un party fittizio per "sbloccare" la pipeline.
 
 ---
 
@@ -36,13 +45,17 @@ Input: output Step 1
 Output: draft IT con testi boxed espansi. Aggiunte atmosferiche in blockquote separati `*[aggiunta atmosferica]*`.
 Tutte le informazioni dell'originale devono essere presenti — nessun dettaglio può essere omesso.
 
-### Step 3 — Integrazione personaggi giocanti
+### Step 3 — Integrazione personaggi giocanti *(condizionale)*
 Leggi ed esegui le istruzioni di `ai/agents/03-session-pc-integrator.agent.md`.
 
 Input: draft IT da Step 2
 File da leggere: `campagna/party.md`, `campagna/png-incontrati.md`, `campagna/rapporti.md`,
 `campagna/fazioni.md`, `campagna/contesto.md`, `campagna/filo-narrativo-interno.md`, `fonti/personaggi/*.md`
 Output: draft con hook PG, scene spotlight opzionali, note DM riservate, atteggiamenti PNG aggiornati.
+
+**Se `campagna/party.md` è TBD:** l'agente stesso rileva la condizione (suo Step 0), salta il
+resto delle sue istruzioni e restituisce il draft invariato con una nota `⏭ Agente 3 saltato`.
+Continua comunque con lo Step 4.
 
 ### Step 4 — Integrazione missioni/digressioni
 Leggi ed esegui le istruzioni di `ai/agents/04-session-missions-integrator.agent.md`.

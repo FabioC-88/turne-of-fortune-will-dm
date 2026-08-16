@@ -87,6 +87,12 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi sempre in
 
 **Questo comando orchestra una pipeline di agenti specializzati in sequenza.** Invoca ogni agente nell'ordine indicato, passando l'output del precedente come input al successivo.
 
+**Preparazione in anticipo senza party definito:** il DM ha esplicitamente autorizzato a preparare
+più sessioni in anticipo anche prima che il party sia noto — non chiedere conferma, non bloccarti.
+Se `campagna/party.md` è ancora `TBD`, esegui comunque tutta la pipeline: gli Step 3 e 6b si
+autodisattivano (vedi le rispettive descrizioni sotto) e producono un `dm-notes-sessione-NN.md`
+completo ma generico, senza hook cuciti su PG specifici. Non fabbricare mai un party finto.
+
 ---
 
 #### Pipeline di Preparazione Sessione
@@ -99,9 +105,10 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi sempre in
 - Input: output Step 1
 - Output: draft completo in italiano con testi boxed espansi e tag `*[aggiunta atmosferica]*`
 
-**STEP 3 — Agente Personaggi** (`03-session-pc-integrator.agent.md`)
+**STEP 3 — Agente Personaggi** (`03-session-pc-integrator.agent.md`) *(condizionale)*
 - Input: output Step 2
 - Output: draft con hook personali, spotlight PG, `[NOTA DM]` per segreti, atteggiamenti PNG verificati
+- **Si autodisattiva se `campagna/party.md` è ancora TBD** — il draft prosegue invariato con una nota, senza inventare PG
 
 **STEP 4 — Agente Missioni** (`04-session-missions-integrator.agent.md`)
 - Input: output Step 3
