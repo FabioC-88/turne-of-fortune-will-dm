@@ -20,9 +20,9 @@
 - **Livello di picco (temporaneo):** 17° nei cap. 14-15 — vedi "Potere in Prestito" sotto
 - **Livello di uscita reale:** 10° (dopo la Conclusion) — per compatibilità con `vecna-eve-of-ruin-dm`
 - **Party:** TBD (nomi/ruoli da definire con `/setup-campagna`)
-- **Stato:** Preparazione — Sessioni 1-14 pronte in anticipo (party TBD). Sessione 12 = toolkit opzionale cap. 12 (non lineare, nessun level up). Cap. 14 = rivelazione su Shemeshka e balzo (temporaneo) a 17° — Sessione 15 (cap. 15 "Echoes of Delusion", finale) da preparare
+- **Stato:** ✅ Tutte le sessioni preparate in anticipo (1-15, party TBD) — copertura completa del libro dall'Introduzione alla Conclusion. Sessione 12 = toolkit opzionale cap. 12 (non lineare, nessun level up). Sessione 15 = finale di campagna (cap. 15 + Conclusion), applica il level-down homebrew 17°→10° a metà sessione. Nessuna sessione resta da preparare finché il party non è definito (a quel punto: ri-eseguire l'Agente 3 su tutte le sessioni 1-15 per aggiungere hook personali)
 - **Durata Media Sessioni:** ~3 ore
-- **Capitolo corrente:** 14
+- **Capitolo corrente:** 15 (finale — vedi Sessione 15 per il level-down homebrew a fine capitolo)
 - **Numero Capitoli Totali:** 15 (+ Introduzione e Conclusion)
 
 ---
