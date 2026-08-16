@@ -20,9 +20,9 @@
 - **Livello di picco (temporaneo):** 17° nei cap. 14-15 — vedi "Potere in Prestito" sotto
 - **Livello di uscita reale:** 10° (dopo la Conclusion) — per compatibilità con `vecna-eve-of-ruin-dm`
 - **Party:** TBD (nomi/ruoli da definire con `/setup-campagna`)
-- **Stato:** Preparazione — Sessioni 1-12 pronte in anticipo (party TBD). Sessione 12 = toolkit opzionale cap. 12 (non lineare, nessun level up) — Sessione 13 (cap. 13 "Secrets of the Spire") da preparare
+- **Stato:** Preparazione — Sessioni 1-13 pronte in anticipo (party TBD). Sessione 12 = toolkit opzionale cap. 12 (non lineare, nessun level up). Parte 2 conclusa, Parte 3 avviata — Sessione 14 (cap. 14 "Behind the Wheel", rivelazione su Shemeshka) da preparare
 - **Durata Media Sessioni:** ~3 ore
-- **Capitolo corrente:** 12 (toolkit opzionale — la progressione narrativa resta al cap. 11 completato)
+- **Capitolo corrente:** 13
 - **Numero Capitoli Totali:** 15 (+ Introduzione e Conclusion)
 
 ---
