@@ -20,9 +20,9 @@
 - **Livello di picco (temporaneo):** 17° nei cap. 14-15 — vedi "Potere in Prestito" sotto
 - **Livello di uscita reale:** 10° (dopo la Conclusion) — per compatibilità con `vecna-eve-of-ruin-dm`
 - **Party:** TBD (nomi/ruoli da definire con `/setup-campagna`)
-- **Stato:** Preparazione — Sessioni 1-5 pronte in anticipo (party TBD), 1/7 gate-town coperti (Automata) — Sessione 6 (Curst) da preparare
+- **Stato:** Preparazione — Sessioni 1-6 pronte in anticipo (party TBD), 2/7 gate-town coperti (Automata, Curst) — Sessione 7 (Excelsior) da preparare
 - **Durata Media Sessioni:** ~3 ore
-- **Capitolo corrente:** 5
+- **Capitolo corrente:** 6
 - **Numero Capitoli Totali:** 15 (+ Introduzione e Conclusion)
 
 ---
