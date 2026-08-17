@@ -11,7 +11,7 @@
 
 | Gruppo | Ruolo | Capitolo principale | Note |
 |--------|-------|---------------------|------|
-| **Heralds of Dust** | Fazione della Mortuary, becchini/non-morti | Cap. 1 | Custodiscono i PG all'inizio; include l'agente Dustman del Culto di Vecna |
+| **Heralds of Dust** | Fazione della Mortuary, becchini/non-morti | Cap. 1 | Custodiscono i PG all'inizio; tra le loro fila si nasconde Sennik Vaal, agente del Culto di Vecna (cap. 2-3) |
 | **Harmonium** | Fazione dell'ordine/legge a Sigil | Cap. 2 | Pattuglie e ufficiali che i PG incontrano esplorando la città |
 | **Fortune's Wheel / Shemeshka** | Casinò planare, il vero villain | Cap. 3, 14 | Datrice di lavoro apparente, in realtà manipolatrice |
 | **I modroni (R04M, X01, il contingente smarrito)** | Alleati/obiettivo della missione | Cap. 4, 13, 15 | Filo conduttore di tutta la Parte 2-3 |

@@ -17,7 +17,8 @@
 > specifiche dei PG.
 
 > **Nota strutturale — Apertura della Parte 3.** Questo capitolo chiude "The Mosaic Mimir" (Parte
-> 2) e apre "Secret Realities" (Parte 3): la testimonianza di R04M in FASE 9 è la **prima
+> 2 — che copre i cap. 4-13, non solo i gate-town) e apre "Secret Realities" (Parte 3): la
+> testimonianza di R04M in **FASE 8** è la **prima
 > conferma diretta** che Shemeshka ha mentito ai PG fin dal cap. 3 — non rivela ancora il suo nome
 > per esteso nel racconto di R04M (lui la chiama "una fantasiosa volpe immonda"), ma i PG dovrebbero
 > intuire il collegamento. Non anticipare oltre: la rivelazione completa arriva al cap. 14 ("Behind
@@ -385,7 +386,8 @@ mai stata sua contabile. Il modo più semplice per riconciliare queste discrepan
 Shemeshka direttamente (cap. 14). Non dire ai giocatori esplicitamente che "l'immondo volpino" è
 Shemeshka — lascia che colleghino i punti da soli: la descrizione (volpe, elegante) e il gettone da
 casinò dovrebbero bastare. R04M consegna ai PG il gettone di platino usato per fuggire da Fortune's
-Wheel (vedi area F12, `dm-notes-sessione-03.md`).
+Wheel — vedi area F12 in `dm-notes-sessione-03.md`: il portale si trova nel corridoio di servizio
+dietro il palco della fortune's wheel, coerentemente con la descrizione che R04M dà qui.
 
 ---
 
@@ -459,6 +461,7 @@ Dopo aver giocato questa sessione:
 | 7 | Meccanica | FASE 6 | Regole del Baffo (danneggiamento del ponte) e del semidio Kirgaz riportate per intero |
 | 8 | Hook PG / Spotlight | — | N/A — party TBD, Agente 3 saltato (vedi nota in testa al file) |
 | 9 | Missioni | — | N/A — nessuna missione secondaria in questa campagna |
+| 10 | Continuità | Nota strutturale, FASE 8 | **Correzioni post-revisione:** (a) la nota strutturale collocava la testimonianza di R04M in "FASE 9" — è in **FASE 8**, FASE 9 è il tradimento di Ascetelis; (b) precisato che la Parte 2 copre i cap. 4-13, in contrasto con l'affermazione errata che era in `dm-notes-sessione-11.md` (ora corretta); (c) il rimando a F12 esplicita ora la posizione scelta del portale (dietro il palco di F7), coerente con Sess. 3 e Sess. 14 |
 
-**Totale correzioni applicate:** 7 (righe 1, 2, 4 sono note strutturali/di continuità non correttive)
+**Totale correzioni applicate:** 10 (righe 1, 2, 4 sono note strutturali/di continuità non correttive)
 **Stato:** ✅ Pronto per commit (party TBD — hook personali da aggiungere quando disponibile)
