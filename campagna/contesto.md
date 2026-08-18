@@ -22,7 +22,8 @@
 - **Party:** TBD (nomi/ruoli da definire con `/setup-campagna`)
 - **Stato:** ✅ Tutte le sessioni preparate in anticipo (1-15, party TBD) — copertura completa del libro dall'Introduzione alla Conclusion. Sessione 12 = toolkit opzionale cap. 12 (non lineare, nessun level up). Sessione 15 = finale di campagna (cap. 15 + Conclusion), applica il level-down homebrew 17°→10° a metà sessione. Nessuna sessione resta da preparare finché il party non è definito (a quel punto: ri-eseguire l'Agente 3 su tutte le sessioni 1-15 per aggiungere hook personali)
 - **Durata Media Sessioni:** ~3 ore
-- **Capitolo corrente:** 15 (finale — vedi Sessione 15 per il level-down homebrew a fine capitolo)
+- **Capitolo preparato fino a:** 15 (tutta la campagna — vedi Sessione 15 per il level-down homebrew a fine capitolo)
+- **Capitolo corrente (in gioco):** — nessuna sessione ancora giocata. La campagna non è iniziata: party TBD, XP 0, Mimir Restoration Tracker vuoto. Aggiorna questo campo alla prima sessione giocata.
 - **Numero Capitoli Totali:** 15 (+ Introduzione e Conclusion)
 
 ---
@@ -112,10 +113,11 @@ Dispositivo magico che i PG riparano e aggiornano gate-town dopo gate-town nella
 Questa campagna è l'**Atto IV** del filo narrativo che il DM usa per collegare le sue campagne verso *Vecna: Eve of Ruin* — vedi `fonti/campagna/filo-narrativo-multiverso.md` (già scritto dal DM) per il testo completo.
 
 **Riassunto per riferimento rapido:**
-- **Agente:** un Dustman di basso rango della Mortuary (fazione dei Heralds of Dust, cap. 1) — in eco diretta con l'archivista di segreti di Barovia (Atto I).
+- **Agente:** **Sennik Vaal**, Dustman di basso rango della Mortuary (fazione dei Heralds of Dust) — in eco diretta con l'archivista di segreti di Barovia (Atto I). Si presenta come fonte neutrale e disinteressata, ed è troppo bene informato per essere solo un becchino filosofo.
 - **Simbolo:** una mano aperta con un occhio al centro del palmo, incisa su una maschera funeraria o un registro di decessi della Mortuary.
-- **Oggetto:** il frammento di specchio nero seminato in Shadow of the Dragon Queen (Atto III) — qui a Sigil smette di essere vago e mostra chiaramente la Mortuary.
+- **Oggetto:** un **frammento di specchio nero**, gemello di quello seminato in Shadow of the Dragon Queen (Atto III). ⚠️ **Adattamento necessario:** `fonti/campagna/filo-narrativo-multiverso.md` presuppone che un PG lo porti con sé da Krynn, ma questa campagna ha **PG nuovi** — nessuno viene da Shadow of the Dragon Queen. In questa campagna il frammento **si trova a Sigil**, tra gli effetti confiscati ai morti della Mortuary (Sessione 1, tappa M3). Non riflette chi lo guarda: mostra per un istante un luogo che i PG **non hanno ancora visitato**. Diventa una conferma — non più un presagio — quando ci arrivano davvero. Il valore per il ciclo resta identico: è l'oggetto che i PG portano avanti verso `vecna-eve-of-ruin-dm`, dove si scopre che "era una spia, non un souvenir".
 - **Dove inserirlo:** capitoli 1-3 (Sigil), **non** nella Parte 2 — il filo di Vecna e i fili interni della Parte 2 (vedi `campagna/filo-narrativo-interno.md`) sono indipendenti e non vanno mescolati.
+- **Innesti già scritti nelle sessioni:** Sess. 1 → simbolo inciso (M9) + frammento di specchio nero (M3). Sess. 2 → primo incontro con il Dustman (FASE 3, incontro opzionale "Il Filosofo della Polvere"). Sess. 3 → secondo e ultimo contatto (FASE 4, "Interludio — Il Dustman al Bancone"), poi il filo si chiude fino a Eve of Ruin.
 - **Cosa non rivelare:** il nome di Vecna. Il Dustman parla solo del "Segreto Supremo".
 
 ---
@@ -125,10 +127,11 @@ Questa campagna è l'**Atto IV** del filo narrativo che il DM usa per collegare 
 | PNG | Ruolo | Prima apparizione | Affiliazione |
 |-----|-------|--------------------|--------------|
 | Shemeshka the Marauder | Villain principale (rivelato cap. 14) | Cap. 3 | Fortune's Wheel |
-| R04M | Modrone fuggitivo, alleato | Cap. 3 (menzionato) / Cap. 4 (incontrato) | Mechanus (contingente smarrito) |
+| R04M | Modrone fuggitivo, alleato | Cap. 3 (menzionato da Shemeshka) / Cap. 4 (raccontato da Zaythir) / **Cap. 13 (incontrato)** | Mechanus (contingente smarrito) |
+| Ascetelis | Rilmani cuprilach — spia e assassina, tradisce il party (segreto — rivelato cap. 13) | Cap. 13 | Dendradis / rilmani |
 | Colcook | Concierge dei Platinum Rooms | Cap. 14 | Fortune's Wheel |
 | X01 | Hexton modron, leader del contingente smarrito | Cap. 15 | Mechanus |
-| Dustman (agente di Vecna) | Agente segreto del Culto di Vecna | Cap. 1-3 | Heralds of Dust / Culto di Vecna |
+| Sennik Vaal, il Filosofo della Polvere (agente di Vecna) | Agente segreto del Culto di Vecna, sotto copertura come Dustman di basso rango | Cap. 2 (primo incontro) / Cap. 3 (ultimo contatto) | Heralds of Dust / Culto di Vecna |
 | Farrow | Spia shadar-kai al servizio di Shemeshka (segreto — rivelato cap. 14) | Cap. 2 | Fortune's Wheel (in incognito) |
 | Parisa | Tout bariaur di Sigil | Cap. 2 | Indipendente |
 | Zaythir | Custode githzerai del castello errante Iedcaru | Cap. 4 | Indipendente |

@@ -4,7 +4,7 @@
 
 - **Fonte primaria:** `fonti/campagna/Turn of Fortune's Wheel.md` — Cap. 12: *Outlands Explorations* (righe 2217-2437)
 - **Sessione precedente:** `dm-notes-sessione-11.md` (Cap. 11: *Sylvania: Titan on the Town* — chiusura Parte 2)
-- **Livello party:** 9° — questo capitolo **non influenza mai l'avanzamento di livello** (dichiarazione esplicita del libro)
+- **Livello party:** 6°-9°, a seconda di quando il DM innesta questi incontri (il capitolo è usabile in qualunque momento della Parte 2, anche retroattivamente durante le sessioni 5-11). Questo capitolo **non influenza mai l'avanzamento di livello** (dichiarazione esplicita del libro)
 - **XP accumulati:** 0 (nessuna sessione ancora giocata al momento della preparazione)
 - **Obiettivo sessione:** non è una sessione con una trama propria, ma un **toolkit di quattro incontri opzionali** da inserire liberamente durante o dopo la Parte 2, per arricchire l'esplorazione dell'Outlands senza legarsi a un gate-town specifico.
 - **Durata stimata:** variabile — ogni incontro può riempire da 20 minuti a un'intera sessione, a seconda di quanto il DM vuole approfondirlo.
@@ -391,7 +391,7 @@ dedicato se il capitolo resta inutilizzato)*
 | # | Tipo | Sezione | Modifica Applicata |
 |---|------|---------|-------------------|
 | 1 | Struttura | Nota strutturale | Segnalato esplicitamente che questo capitolo non è una sessione lineare, ma un toolkit di riferimento da consultare — a differenza di tutte le sessioni precedenti |
-| 2 | Continuità | Metadati | Chiarito che il capitolo non influenza mai l'avanzamento di livello (dichiarazione esplicita del libro, non un'omissione) |
+| 2 | Continuità | Metadati | Chiarito che il capitolo non influenza mai l'avanzamento di livello (dichiarazione esplicita del libro, non un'omissione). **Correzione post-revisione:** livello party riportato da "9°" a "6°-9°", coerente con la natura retroattiva del toolkit dichiarata nel file stesso |
 | 3 | Testo Boxed | Sezioni 2, 3, 4 | Verificati contro l'originale EN (righe 2217-2437): nessuna informazione omessa; nessuna aggiunta atmosferica extra inserita per non appesantire un capitolo già di per sé flessibile — le uniche aggiunte sono note DM per l'uso pratico al tavolo |
 | 4 | Filo interno / Filo Vecna | Sezione 1 | Segnalato esplicitamente di non fondere gli eventi di "Glitch Planare" con Filo A o Filo Vecna, pur restando tematicamente affini — sono fenomeni di origine narrativa diversa nel libro |
 | 5 | PNG | Renesnuprah/Reenee, Trikante, Sesspech, Shariel, G041 | Caratterizzazione coerente con l'originale; nessun segreto DM esposto ai giocatori |

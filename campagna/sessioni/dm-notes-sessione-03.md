@@ -349,10 +349,19 @@ Sale sfarzose per incontri privati o partite esclusive. In una di esse, tre **ar
 
 ### F12 — Portale per i Platinum Rooms
 
-Un'anonima nicchia in un corridoio riservato allo staff nasconde un portale che si apre solo per chi
-porta un raro gettone razorleaf di platino. Chi lo mostra ed entra nella nicchia emerge nei Platinum
-Rooms, dettagliati nel capitolo 14 — **non rilevante per questa sessione**, i PG non hanno accesso a
-un gettone di platino in questa fase della campagna.
+Un'anonima nicchia **nel corridoio di servizio dietro il palco della fortune's wheel (F7)**, in una
+zona riservata allo staff, nasconde un portale che si apre solo per chi porta un raro gettone
+razorleaf di platino. Chi lo mostra ed entra nella nicchia emerge nei Platinum Rooms, dettagliati
+nel capitolo 14 — **non rilevante per questa sessione**, i PG non hanno accesso a un gettone di
+platino in questa fase della campagna.
+
+**[NOTA DM — continuità]** Il libro è incoerente su questo punto: la scheda di F12 (map 3.1) mette
+il portale in un generico "corridoio di servizio", mentre il cap. 14 e la testimonianza di R04M nel
+cap. 13 parlano entrambi di un portale **"dietro la grande ruota"**. Per questa campagna è stata
+scelta la seconda versione — è quella che i PG sentiranno raccontare da R04M e che useranno nella
+Sessione 14, ed è narrativamente più forte (il gioco che dà il nome al casinò nasconde la via al
+santuario della proprietaria). Descrivilo quindi come una porta di servizio dietro il palco
+transennato di F7. Vedi `dm-notes-sessione-13.md` (FASE 8) e `dm-notes-sessione-14.md` (FASE 1).
 
 ---
 
@@ -386,6 +395,48 @@ l'artista in scena, che si rifugia nel camerino. Se i PG non intervengono, quatt
 arrivano dopo 3 round e sottomettono il drago, che continua a fare scenate mentre viene allontanato
 dal casinò. Un PG che dedica un'azione e supera una prova di **Carisma (Intimidire o Persuasione)
 CD 14** può convincere il drago a smettere e ad andarsene.
+
+### Interludio — Il Dustman al Bancone (Filo di Vecna, opzionale)
+
+> **[NOTA DM — riservata]** Scena **non presente nel libro**: è il secondo e ultimo contatto
+> dell'Atto IV del filo del Culto di Vecna (vedi `fonti/campagna/filo-narrativo-multiverso.md` e
+> `campagna/contesto.md`). Giocala tra l'Ora 2 e l'Ora 3, in un momento di calma. Dura due minuti.
+> **Saltala del tutto se i PG non hanno incontrato Sennik Vaal nella Sessione 2.**
+
+Al bancone del Dragon Bar (F1a), o all'Ice Lounge (F8), i PG riconoscono una tunica grigio cenere
+del tutto fuori posto tra gli abiti da sera della clientela.
+
+**[BOXED TEXT — BT-04b]**
+> Sennik Vaal siede da solo davanti a un bicchiere che non ha toccato. Vi vede, e per la prima volta
+> da quando lo conoscete accenna qualcosa che somiglia a un sorriso. "Vi hanno invitati di sopra,
+> allora. Complimenti sinceri." Fa ruotare il bicchiere sul bancone. "Io ci vengo per lavoro. Qui la
+> gente perde tutto in una notte e poi parla. Non c'è posto a Sigil dove si confessi di più."
+
+Sennik è cordiale e stanco. Se i PG conversano, può condividere:
+
+- Non è un cliente: raccoglie ciò che gli avventori dicono quando hanno perso, e lo registra. Chi
+  perde tutto tende a fare bilanci ad alta voce.
+- **Su Shemeshka**, se interrogato: la conosce di reputazione come chiunque a Sigil — arcanaloth,
+  ricca, informatissima. Non ha nulla da aggiungere e non è interessato. *(È vero: le loro agende
+  non si sfiorano.)*
+- Chiede di nuovo, con la stessa noncuranza della prima volta, se nel frattempo i PG hanno ricordato
+  qualcosa. Ascolta. Ringrazia.
+
+Prima di congedarsi, dice una sola cosa fuori registro — e la dice guardando il bicchiere, non loro:
+
+> *"State per andare lontano, mi pare. Bene. Un consiglio da chi archivia: quello che vi succede là
+> fuori è già scritto da qualche parte, prima ancora che vi succeda. Non è una minaccia. È solo
+> come funziona."*
+
+Poi paga il suo bicchiere intatto e se ne va. **I PG non lo rivedranno per il resto della
+campagna.**
+
+**[NOTA DM — riservata]** Qui il filo di Vecna si chiude fino a `vecna-eve-of-ruin-dm`, dove si
+scopre che Sennik è sparito da Sigil poco dopo il passaggio dei PG (vedi
+`filo-narrativo-multiverso.md`, Atto V, "Connessioni specifiche"). Non innestare **nulla** del filo
+di Vecna nella Parte 2 né nei capitoli 14-15: è espressamente escluso. Se i giocatori tornano a
+cercarlo alla Mortuary in una sessione futura, i Dusters confermano che un Sennik Vaal ha lavorato
+lì, e che ha smesso di presentarsi. Nessuno ricorda quando.
 
 ### Ora 3 — L'Arrivo di Shemeshka
 
@@ -480,7 +531,7 @@ PG guadagna un livello prima di iniziare la sessione successiva (5° → 6°).
 Dopo aver giocato questa sessione:
 
 - [ ] `campagna/party.md` — compila con i PG reali (o aggiorna livello/XP se già definiti)
-- [ ] `campagna/png-incontrati.md` — aggiungi Valek, Shemeshka (e ogni PNG del casinò rilevante per il tavolo)
+- [ ] `campagna/png-incontrati.md` — aggiungi Valek, Shemeshka (e ogni PNG del casinò rilevante per il tavolo); segna Sennik Vaal come **uscito di scena** — non ricompare fino a `vecna-eve-of-ruin-dm`
 - [ ] `campagna/missioni-secondarie.md` — invariato, nessuna missione in questo capitolo
 - [ ] `campagna/rapporti.md` — se emergono rapporti PG-PNG degni di nota (in particolare con Shemeshka)
 - [ ] `campagna/sessioni/recaps/recap-sessione-03.md` — compila il recap
@@ -499,7 +550,8 @@ Dopo aver giocato questa sessione:
 | 4 | Tabelle meccaniche | F4 (slot), F7 (fortune's wheel) | Tradotte per intero, nessuna riga/esito omesso rispetto all'originale |
 | 5 | PNG | Shemeshka, Valek, Farrow (uscita di scena) | Caratterizzazione coerente con la voce già stabilita in `ai/agents/02-session-translator.agent.md`; bugia di Shemeshka su R04M isolata in `[NOTA DM — riservata]`, mai esposta ai giocatori |
 | 6 | Stat block | Tutte le location F1-F12 | Creature citate in **grassetto** con rimando a *Morte's Planar Parade* / *Monster Manual*, coerente con la convenzione della campagna |
-| 7 | Filo Vecna | — | Nessun aggancio in questo capitolo — l'impersonificazione di Vecna all'Ora 1 è un espediente comico dei doppelganger, **non** collegata al vero Culto di Vecna della campagna: non va confusa né usata come indizio |
+| 7 | Filo Vecna | FASE 4 — Interludio: Il Dustman al Bancone | **Correzione post-revisione:** la versione precedente non innestava nulla, lasciando l'Atto IV senza il proprio agente in tutta la campagna. Aggiunto il secondo e ultimo contatto con **Sennik Vaal**, che chiude il filo fino a `vecna-eve-of-ruin-dm`. Resta valido l'avviso originale: l'impersonificazione di Vecna all'Ora 1 è un espediente comico dei doppelganger, **non** collegata al vero Culto — non va confusa né usata come indizio, e i due elementi non vanno giocati nella stessa ora |
+| 11 | Continuità | F12 — Portale per i Platinum Rooms | **Correzione post-revisione:** sciolta l'incoerenza della fonte (F12 "corridoio di servizio" vs cap. 13-14 "dietro la grande ruota"). Adottata la versione "dietro il palco di F7", coerente con la testimonianza di R04M (Sess. 13, FASE 8) e con l'accesso ai Platinum Rooms (Sess. 14, FASE 1) |
 | 8 | Hook PG / Spotlight | — | N/A — party TBD, Agente 3 saltato (vedi nota in testa al file) |
 | 9 | Missioni | — | N/A — nessuna missione secondaria in questa campagna |
 | 10 | Struttura campagna | Chiusura | Segnalata la fine della Parte 1 e l'inizio della Parte 2 ("The Mosaic Mimir") alla chiusura del capitolo |

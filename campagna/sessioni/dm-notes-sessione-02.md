@@ -121,11 +121,12 @@ avere gusti più raffinati dopo aver assaggiato cibo o bevande scadenti. Conside
 
 ---
 
-## FASE 3 — Incontri Opzionali a Sigil (~35 min)
+## FASE 3 — Incontri Opzionali a Sigil (~45 min)
 
-I due incontri seguenti sono facoltativi e possono essere introdotti in qualunque punto di Sigil,
-mentre il party esplora. Il terzo incontro (Harmonium, FASE 4) è invece obbligatorio e segna la
-fine della parte esplorativa del capitolo.
+I tre incontri seguenti sono facoltativi e possono essere introdotti in qualunque punto di Sigil,
+mentre il party esplora — i primi due sono del libro, il terzo ("Il Filosofo della Polvere") è
+l'innesto del filo di Vecna. L'incontro con gli Harmonium (FASE 4) è invece obbligatorio e segna
+la fine della parte esplorativa del capitolo.
 
 ### Tappa: Esperienza Sensoriale (opzionale)
 
@@ -190,6 +191,58 @@ risolve in uno di tre modi:
 Se i PG visitano un quartier generale di fazione, ricevono informazioni sulla filosofia della
 fazione e vengono accolti come possibili nuovi membri, se lo desiderano. Vedi *Sigil and the
 Outlands* per i dettagli sulle fazioni.
+
+### Tappa: Il Filosofo della Polvere (opzionale — Filo di Vecna)
+
+> **[NOTA DM — riservata]** Questo incontro **non è nel libro**: è l'innesto dell'Atto IV del filo
+> del Culto di Vecna (vedi `fonti/campagna/filo-narrativo-multiverso.md` e `campagna/contesto.md`).
+> Giocalo come una scena di colore in coda al dibattito dei Filosofi Planari, o in qualunque altro
+> momento tranquillo dell'esplorazione. **Non deve sembrare importante.**
+
+Mentre i filosofi si disperdono — o mentre i PG si fermano da qualche parte a riprendere fiato — un
+uomo li osserva da poco lontano. Veste la tunica grigio cenere degli Heralds of Dust, ma senza
+insegne di rango: uno degli innumerevoli becchini di basso livello della Mortuary.
+
+**[BOXED TEXT — BT-01b]**
+> "Perdonate. Vi ho visti uscire dalla Mortuary stamattina — non capita spesso che qualcuno la
+> attraversi nella direzione sbagliata." L'uomo ha una voce piatta e cortese, e non sorride. "Non
+> temete, non vi denuncerò. Non è compito mio, e francamente la cosa mi interessa più di quanto mi
+> preoccupi."
+
+Si presenta come **Sennik Vaal**, Dustman (statistiche da **cittadino comune** — non combatte mai e
+non oppone resistenza). Sostiene di occuparsi di registri e ultime volontà: raccoglie ciò che i
+morenti dicono prima di smettere di parlare.
+
+**Cosa offre.** Sennik è una fonte **neutrale e disinteressata**: se i PG gli chiedono qualcosa
+sulla città, risponde con precisione e senza chiedere nulla in cambio. Sa spiegare la guerra
+strisciante tra le fazioni ascendenti, chi comanda dove, quali quartieri evitare, e — se
+interrogato — che l'Harmonium ha già cominciato a fare domande su di loro (un avvertimento utile
+prima della FASE 4). Non si schiera con nessuna fazione, nemmeno con la propria.
+
+**Cosa chiede.** Una cosa sola, e la chiede come si chiede l'ora: *"Vi ricordate niente? Del prima,
+intendo. Anche una sciocchezza."* Ascolta qualunque risposta con la stessa attenzione, non prende
+appunti davanti a loro, e non insiste se i PG tacciono. Poi ringrazia e si congeda.
+
+**[NOTA DM — riservata]** Sennik Vaal è l'agente locale del Culto di Vecna. Il suo lavoro alla
+Mortuary è una copertura perfetta: la fazione lo mette a contatto con moribondi, reliquie e
+confessioni finali. **Non sa nulla di Shemeshka, di R04M o del glitch** — non è collegato alla trama
+principale in alcun modo, ed è importante che resti così: se i giocatori lo trattano come un indizio
+sul mistero centrale, lascia che sbattano contro un muro. Non mentire loro, semplicemente non c'è
+nulla lì.
+
+Cosa può emergere se i PG lo pressano:
+- **Se chiedono del simbolo mano-occhio** (visto in M9, Sessione 1): alza le spalle. "Un vecchio
+  segno da becchini. Significa che qualcuno ha ascoltato." Non spiega chi, né cosa. Non mente: è
+  esattamente ciò che significa.
+- **Se mostrano il frammento di specchio nero** (M3, Sessione 1): lo guarda un istante di troppo,
+  poi restituisce lo sguardo ai PG. "Tenetelo. Non è vostro, ma vi è arrivato lo stesso. Le cose che
+  arrivano da sole di solito hanno una ragione." Non tenta di prenderlo.
+- **Se chiedono per chi lavora:** "Per chi lavoriamo tutti, alla fine. Per il Segreto Supremo." Lo
+  dice con l'inflessione stanca di chi recita una formula di fazione, e cambia argomento.
+
+**Non pronunciare mai il nome di Vecna**, e non far mai capire che Sennik è qualcosa di più di un
+funzionario logorroico. Il pagamento di questa scena non arriva in questa campagna: arriva in
+`vecna-eve-of-ruin-dm`, quando un giocatore dirà "il segno... l'ho già visto".
 
 ---
 
@@ -438,7 +491,7 @@ prima di iniziare la sessione successiva (4° → 5°).
 Dopo aver giocato questa sessione:
 
 - [ ] `campagna/party.md` — compila con i PG reali (o aggiorna livello/XP se già definiti)
-- [ ] `campagna/png-incontrati.md` — aggiungi Parisa, Farrow (e i suoi alter ego incontrati), Gertrube se rilevanti
+- [ ] `campagna/png-incontrati.md` — aggiungi Parisa, Farrow (e i suoi alter ego incontrati), Gertrube, Sennik Vaal se rilevanti
 - [ ] `campagna/missioni-secondarie.md` — invariato, nessuna missione in questo capitolo
 - [ ] `campagna/rapporti.md` — se emergono rapporti PG-PNG degni di nota (in particolare con Farrow/Parisa)
 - [ ] `campagna/sessioni/recaps/recap-sessione-02.md` — compila il recap
@@ -456,7 +509,7 @@ Dopo aver giocato questa sessione:
 | 3 | Testo Boxed | FASE 1, 4, 6, 7, 8 | Verificati contro l'originale EN (righe 351-556): nessuna informazione omessa; aggiunte atmosferiche separate in blockquote dedicati (BT-01 → BT-05) |
 | 4 | PNG | Parisa, Farrow, Gertrube, ufficiali Harmonium | Caratterizzazione coerente con l'originale; segreto su Farrow/Shemeshka isolato in `[NOTA DM — riservata]`, mai esposto ai giocatori |
 | 5 | Stat block | FASE 1, 3, 4, 6, 7 | Creature citate in **grassetto** con rimando a *Morte's Planar Parade*, coerente con la convenzione del libro — nessuno stat block completo necessario per queste creature comuni |
-| 6 | Filo Vecna | — | Nessun aggancio previsto in questo capitolo secondo `campagna/filo-narrativo-multiverso.md` (Atto IV si concentra su cap. 1-3, ma il prossimo innesto naturale è cap. 3 — Fortune's Wheel) |
+| 6 | Filo Vecna | FASE 3 — Il Filosofo della Polvere | **Correzione post-revisione:** la versione precedente non innestava nulla e rimandava genericamente al cap. 3, che a sua volta non innestava nulla — il primo dei tre semi dell'Atto IV (l'**agente Dustman**) restava quindi non giocato in tutta la campagna. Aggiunto qui il primo incontro con **Sennik Vaal** come incontro opzionale, secondo `fonti/campagna/filo-narrativo-multiverso.md` (Atto IV, seme 1). Isolato esplicitamente dalla trama principale con `[NOTA DM — riservata]`: non sa nulla di Shemeshka né del glitch |
 | 7 | Hook PG / Spotlight | — | N/A — party TBD, Agente 3 saltato (vedi nota in testa al file) |
 | 8 | Missioni | — | N/A — nessuna missione secondaria in questa campagna |
 | 9 | Terminologia | Tutto il documento | Nomi propri (Fortune's Wheel, Undersigil, Ragpicker's Square, Hive/Lady's/Market/Clerks' Ward) mantenuti in inglese secondo convenzione della campagna; meccaniche di gioco tradotte in italiano |

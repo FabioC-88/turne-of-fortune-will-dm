@@ -204,7 +204,7 @@ incontro dalla tabella di FASE 2.
 ## FASE 7 — La Fuga da Curst (~50 min)
 
 Quando i PG tornano alla baracca di Valder, Fellik è pronto a partire. Valder consegna al figlio
-una sacca con 5 mo di elettro, e i due si abbracciano brevemente. Fellik conduce quindi i PG verso
+una sacca con 5 monete di elettro, e i due si abbracciano brevemente. Fellik conduce quindi i PG verso
 la discarica: il tragitto in città è privo di incidenti, ma i PG con Saggezza (Percezione) passiva
 16 o superiore notano i locali osservarli con sospetto.
 
@@ -342,6 +342,7 @@ Dopo aver giocato questa sessione:
 | 8 | Meccanica | FASE 3, FASE 8 | Aggiunto promemoria per la registrazione della voce Curst nel Mimir Restoration Tracker e per l'applicazione esplicita del level up 6°→7° |
 | 9 | Hook PG / Spotlight | — | N/A — party TBD, Agente 3 saltato (vedi nota in testa al file) |
 | 10 | Missioni | — | N/A — nessuna missione secondaria in questa campagna |
+| 11 | Valuta | FASE 7 | **Correzione post-revisione:** "5 mo di elettro" → "5 monete di elettro" (fonte: `5 ep`). La dicitura errata gonfiava di 10× la somma che Valder dà a Fellik, ed era già corretta in FASE 6 |
 
-**Totale correzioni applicate:** 8 (righe 1, 2, 3, 5 sono note strutturali/di continuità non correttive)
+**Totale correzioni applicate:** 9 (righe 1, 2, 3, 5 sono note strutturali/di continuità non correttive)
 **Stato:** ✅ Pronto per commit (party TBD — hook personali da aggiungere quando disponibile)

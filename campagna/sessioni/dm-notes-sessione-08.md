@@ -115,7 +115,7 @@ Mentre i PG esplorano l'area attorno a Faunel, o tornano dal portale per i Beast
 nella scena seguente:
 
 **[BOXED TEXT — BT-03, tradotto]**
-> Da davanti giungono suoni di morsi vogaci, punteggiati da vocalizzazioni frenetiche, simili a
+> Da davanti giungono suoni di morsi voraci, punteggiati da vocalizzazioni frenetiche, simili a
 > risate. La fonte è un manipolo di gnoll che divora disordinatamente la carcassa, uccisa da poco,
 > di uno stambecco gigante.
 

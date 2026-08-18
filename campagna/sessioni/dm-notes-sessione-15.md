@@ -116,7 +116,8 @@ verrà a pensare a voi!"* — Iyaz Eyaz, filosofo di Sigil
 avventura, e le sfide seguenti lo metteranno alla prova. Considera di dare loro l'occasione di
 familiarizzare con i nuovi poteri prima di procedere — porzioni inutilizzate di questa campagna,
 *Sigil and the Outlands*, *Morte's Planar Parade* o un'altra avventura possono fornire minacce
-adeguate al livello. Quando i PG sono pronti, procedi con FASE 3.
+adeguate al livello. Quando i PG sono pronti, leggi le caratteristiche del regno in FASE 2 e
+procedi con FASE 3.
 
 ---
 
@@ -655,6 +656,7 @@ Dopo aver giocato questa sessione:
 | 8 | Stat block | FASE 3 (T1-T6) | Creature con adattamenti (peduncolo gigante su verme viola, Arlgolcheir su lich, incarnato planare) riportate per intero |
 | 9 | Hook PG / Spotlight | — | N/A — party TBD, Agente 3 saltato (vedi nota in testa al file). FASE 8 ("Epilogo") beneficia enormemente di PG reali — segnalato esplicitamente |
 | 10 | Missioni | — | N/A — nessuna missione secondaria in questa campagna |
+| 11 | Continuità | FASE 1 | **Correzione post-revisione:** il rimando di chiusura saltava da FASE 1 direttamente a FASE 3, ignorando FASE 2 (caratteristiche di Tyrant's Spiral, materiale di riferimento da leggere prima di entrare) |
 
-**Totale correzioni applicate:** 8 (righe 1, 2, 3, 5 sono note strutturali/homebrew non correttive rispetto al testo originale, ma essenziali per questa campagna)
+**Totale correzioni applicate:** 9 (righe 1, 2, 3, 5 sono note strutturali/homebrew non correttive rispetto al testo originale, ma essenziali per questa campagna)
 **Stato:** ✅ Pronto per commit (party TBD — hook personali da aggiungere quando disponibile; **sessione finale — verificare sempre la nota homebrew e il Mimir Tracker prima di giocare**)

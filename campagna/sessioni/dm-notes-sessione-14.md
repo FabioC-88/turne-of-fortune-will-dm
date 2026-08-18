@@ -272,7 +272,7 @@ Fortune's Wheel e riscuotere le vincite da Amber.
 
 **Perdere la scommessa.** Se un PG scommette sul perdente, non può piazzare un'altra scommessa fino
 a 24 ore dopo, quando gli agenti di Shemeshka trovano un altro evento improbabile da mostrare in
-iperv velocità temporale.
+velocità temporale accelerata.
 
 **Portale.** Attraversa spazio e tempo: chi lo usa torna a P3a pochi istanti dopo essere entrato, ma
 invecchiato di quanto trascorso nell'arena.
@@ -459,6 +459,14 @@ accade quanto segue:
   clausola temporanea si applica solo alla fine del cap. 15, non va mai anticipata ai giocatori
   prima di allora.**
 
+**[NOTA DM — continuità]** Da questo momento le regole *Glitch Characters* **cessano di valere**.
+Attenzione: due location dei Platinum Rooms giocate poco fa le presuppongono ancora — P3b (un PG
+che invecchia oltre la propria aspettativa di vita "riappare a P1") e P4 (le vincite si riscuotono
+"anche se una sua incarnazione è stata uccisa dagli immondi"). Finché la FASE 7 non è avvenuta va
+tutto bene, ma **se il party torna nei Platinum Rooms dopo Unity of Self**, quelle due regole non
+si applicano più: un PG che invecchia oltre il limite in P3b muore e basta, e P4 diventa
+molto più pericoloso. Avvisa i giocatori prima che ci rientrino.
+
 Se un giocatore non libera la propria incarnazione perduta, ciò potrebbe rendere il capitolo
 successivo più impegnativo — lascia che ogni giocatore decida cosa fare della propria incarnazione
 intrappolata. Se sceglie di liberarla più avanti, può farlo tornando alla House of Liars o tramite
@@ -564,6 +572,7 @@ Dopo aver giocato questa sessione:
 | 7 | Stat block | Tutte le fasi | Creature citate in **grassetto** con rimando a *Morte's Planar Parade*, coerente con la convenzione della campagna |
 | 8 | Hook PG / Spotlight | — | N/A — party TBD, Agente 3 saltato (vedi nota in testa al file). FASE 7 ("Memorie Ritrovate") richiede però PG reali per essere pienamente giocata — segnalato esplicitamente |
 | 9 | Missioni | — | N/A — nessuna missione secondaria in questa campagna |
+| 10 | Continuità | FASE 7 — Unity of Self | **Aggiunta post-revisione:** avviso esplicito che la fine delle regole *Glitch Characters* invalida le clausole di P3b (riapparizione dopo morte per invecchiamento) e P4 (incarnazione uccisa dagli immondi) se il party rientra nei Platinum Rooms dopo Unity of Self — contraddizione latente presente anche nell'originale |
 
-**Totale correzioni applicate:** 7 (righe 1, 2, 4 sono note strutturali/homebrew non correttive rispetto al testo originale, ma essenziali per questa campagna)
+**Totale correzioni applicate:** 8 (righe 1, 2, 4 sono note strutturali/homebrew non correttive rispetto al testo originale, ma essenziali per questa campagna)
 **Stato:** ✅ Pronto per commit (party TBD — hook personali da aggiungere quando disponibile; **verificare sempre la nota homebrew prima di giocare questa sessione**)

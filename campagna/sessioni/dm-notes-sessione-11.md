@@ -21,7 +21,9 @@
 > questa — ma qualunque gate-town resti per ultimo userà comunque questa nota. Con questa sessione
 > **si completa il Mosaic Mimir**: dopo questa tappa il mimir può finalmente rivelare i dettagli
 > sull'ultima Great Modron March (vedi `dm-notes-sessione-04.md`, FASE 5, "L'Ultima Great Modron
-> March") — è il ponte narrativo verso il cap. 13 ("Secrets of the Spire"). Il Filo B raggiunge qui
+> March") — è il ponte narrativo verso il cap. 13 ("Secrets of the Spire", Sessione 13). Attenzione:
+> qui finisce il **tour dei gate-town**, non la Parte 2, che prosegue fino alla fine del cap. 13.
+> Il Filo B raggiunge qui
 > il proprio culmine per la Parte 2 (vedi FASE 6): l'indizio più esplicito finora, giusto prima che
 > il filo di Vecna e quello di Shemeshka tornino a intrecciarsi nei capitoli 13-14.
 
@@ -198,7 +200,7 @@ una delle verità di "Dolore Titanico". Dopodiché, è pronta per un'altra celeb
 ### Corteo dei Folletti
 
 *"Questa canzone parla di me!"* — Tyuffayn Tinilyn, folletto festaiolo (noto come "Fuoco Fatuo", ma
-non per il motivo che pensate
+non per il motivo che pensate)
 
 I **folletti** di Goodberry Grove festeggiano alla grande, e la festa è nel vivo: vino, succo e
 dolci di frutta scorrono insieme a musica e risate tra i funghi. Se i PG entrano nella festa, si
@@ -298,18 +300,19 @@ potrebbe invitarli a un'ultima celebrazione insieme.
 impressione di Sylvania qui (vedi `dm-notes-sessione-04.md`, FASE 5). Aggiorna la riga "Sylvania"
 del Mimir Restoration Tracker in `campagna/contesto.md` — **con questa registrazione, tutti e sette
 i gate-town sono coperti**: il Mosaic Mimir può ora rivelare i dettagli sull'ultima Great Modron
-March (vedi `dm-notes-sessione-04.md`, FASE 5), ponte narrativo verso la Sessione 12 (cap. 13,
+March (vedi `dm-notes-sessione-04.md`, FASE 5), ponte narrativo verso la **Sessione 13** (cap. 13,
 "Secrets of the Spire").
 
-Quando i PG sono pronti a lasciare Sylvania, la Parte 2 ("The Mosaic Mimir") è conclusa. Il party
-resta 9° livello: la tabella di avanzamento non prevede ulteriori salti dopo il sesto gate-town, e i
-PG restano a 9° fino all'inizio del capitolo 13.
+Quando i PG lasciano Sylvania si chiude il **tour dei sette gate-town**, ma **non** la Parte 2: la
+Parte 2 ("The Mosaic Mimir") copre i capitoli 4-13 e si chiude solo alla fuga dalla Guglia, alla
+fine della Sessione 13 (vedi `dm-notes-sessione-13.md`, FASE 9). Il party resta 9° livello: la
+tabella di avanzamento non prevede ulteriori salti dopo il sesto gate-town, e i PG restano a 9° per
+tutto il capitolo 13, salendo al 10° solo alla fuga dalla Guglia.
 
 **Nota per il DM:** il capitolo 12 ("Outlands Explorations") offre incontri opzionali usabili in
 qualunque momento della Parte 2 — se il party ha ancora voglia di esplorare l'Outlands prima di
-dirigersi verso la Spire, puoi preparare quel materiale come sessione intermedia opzionale prima
-della Sessione 12 di questa numerazione (cap. 13). Altrimenti, si passa direttamente a Dendradis e
-alla Spire.
+dirigersi verso la Spire, gioca il toolkit di `dm-notes-sessione-12.md` come sessione intermedia
+opzionale prima della **Sessione 13**. Altrimenti, si passa direttamente a Dendradis e alla Spire.
 
 ---
 
@@ -341,7 +344,7 @@ Dopo aver giocato questa sessione:
 - [ ] `campagna/contesto.md` — aggiorna la riga "Sylvania" del Mimir Restoration Tracker; verifica che tutte e 7 le righe siano compilate
 - [ ] `campagna/filo-narrativo-interno.md` — annota nel recap quale spunto Filo A/B è stato usato — con questa sessione la Parte 2 dei fili interni si chiude
 - [ ] `campagna/sessioni/recaps/recap-sessione-11.md` — compila il recap, annotando se il party vuole esplorare il cap. 12 prima di procedere
-- [ ] `campagna/sessioni/dm-notes-sessione-12.md` — da preparare con `/prep-sessione` (cap. 12 "Outlands Explorations" se richiesto dal party, altrimenti direttamente cap. 13 "Secrets of the Spire")
+- [ ] Prossima sessione: `dm-notes-sessione-12.md` (cap. 12 "Outlands Explorations", toolkit opzionale) **solo se il party vuole ancora esplorare**; altrimenti si passa direttamente a `dm-notes-sessione-13.md` (cap. 13, "Secrets of the Spire") — entrambe già preparate
 - [ ] Se il party è stato nel frattempo definito, ri-esegui l'Agente 3 su questo file per aggiungere hook personali
 
 ---
@@ -351,6 +354,8 @@ Dopo aver giocato questa sessione:
 | # | Tipo | Sezione | Modifica Applicata |
 |---|------|---------|-------------------|
 | 1 | Struttura | Nota strutturale | Segnalato che questa è l'ultima delle sette sessioni "gate-town" e che completa il Mosaic Mimir — ponte esplicito verso il cap. 13 |
+| 11 | Continuità | Nota strutturale, FASE 5 | **Correzione post-revisione:** la versione precedente dichiarava conclusa la **Parte 2** all'uscita da Sylvania. Errato: nella fonte la Parte 2 ("The Mosaic Mimir") copre i **cap. 4-13** e si chiude solo alla fuga dalla Guglia (coerente con `dm-notes-sessione-13.md`). Qui finisce solo il tour dei sette gate-town |
+| 12 | Continuità | FASE 5, nota per il DM | **Correzione post-revisione:** i rimandi a "Sessione 12 (cap. 13)" erano stantii — nella numerazione poi adottata Sessione 12 = cap. 12 (toolkit) e Sessione 13 = cap. 13. Riferimenti riallineati |
 | 2 | Continuità | Metadati | Livello party 9° confermato, nessun ulteriore level up (la tabella di avanzamento della Parte 2 si ferma al sesto gate-town) |
 | 3 | Testo Boxed | FASE 1, 2, 3 | Verificati contro l'originale EN (righe 2088-2215): nessuna informazione omessa; aggiunte atmosferiche separate in blockquote dedicati (BT-01 → BT-03) |
 | 4 | Filo interno | FASE 1, FASE 4 | Innestato un solo spunto per filo, entrambi al culmine dell'intensità prevista per la Parte 2 — il Filo B (scatola con "presto") è il ponte esplicito verso la rivelazione del cap. 14 |

@@ -18,6 +18,31 @@
 
 ---
 
+## 📋 PROMEMORIA — Creazione dei Personaggi
+
+> Da leggere **prima** della sessione, se i PG non sono ancora stati creati. Regole del libro
+> (Introduzione, "Character Advancement") — vanno comunicate ai giocatori in sessione zero.
+
+Ogni giocatore crea **un solo personaggio di 3° livello** con i passaggi standard del *Player's
+Handbook* (regole 2024: specie, background con talento d'origine, weapon mastery). In aggiunta
+all'equipaggiamento iniziale di classe e background, ciascun PG riceve:
+
+- **250 mo** da spendere in equipaggiamento **non magico** aggiuntivo;
+- **un oggetto magico di rarità non comune** a scelta del giocatore, soggetto ad approvazione del DM.
+
+**Opzioni di personaggio consigliate.** Oltre al *Player's Handbook*, puoi concedere le opzioni di
+*Mordenkainen Presents: Monsters of the Multiverse*. Se un giocatore vuole un PG originario di
+Sigil, di un gate-town o di un altro luogo dove il viaggio planare è normale, usa le opzioni di
+*Sigil and the Outlands* (incluso il background **Planar Philosopher**, che dà accesso facilitato ai
+quartier generali di fazione — vedi Sessione 2, FASE 2).
+
+**[NOTA DM — riservata]** Non menzionare le *Glitch Characters* in sessione zero oltre a quanto
+serve: si usa l'opzione *Surprise Incarnations* (vedi `campagna/contesto.md`), quindi ogni giocatore
+crea **una sola** incarnazione ora. Le altre due si creano al tavolo alla prima morte del
+personaggio. Aggiorna `campagna/party.md` appena i PG sono definiti.
+
+---
+
 ## 🎬 SETUP INIZIALE
 
 I personaggi non si conoscono tra loro (o forse sì — nessuno ne è sicuro). Ognuno ha ricordi vaghi
@@ -147,6 +172,34 @@ gli scheletri applaudono e i poltergeist premiano il personaggio con una *pozion
 
 **Bottino:** oltre alla pozione, tre uniformi della fazione (a scelta), una borsa con 30 mo e tre
 ninnoli (tira sulla tabella *Cianfrusaglie* del *Player's Handbook*).
+
+**[NOTA DM — riservata] Seme del Culto di Vecna — il Frammento di Specchio Nero**
+(vedi `fonti/campagna/filo-narrativo-multiverso.md`, Atto IV, e `campagna/contesto.md`)
+
+Tra gli oggetti confiscati ai morti, su uno degli scaffali bassi, riposa una scheggia di vetro nero
+grande quanto un palmo, dai bordi stranamente lisci. Un PG che fruga tra gli effetti personali la
+trova senza bisogno di prove.
+
+> *La scheggia non vi riflette. Dove dovrebbe esserci il vostro volto c'è invece un luogo: lo vedete
+> per un battito di ciglia, nitido come un ricordo che non vi appartiene, e poi il vetro torna nero
+> e basta.*
+
+Scegli tu il luogo mostrato: dev'essere una location che i PG **non hanno ancora visitato** ma che
+visiteranno entro poche sessioni — l'insegna di Fortune's Wheel (Sess. 2-3), la terrazza di Iedcaru
+(Sess. 4), l'ingranaggio di Automata (Sess. 5). Quando ci arriveranno davvero, non commentare: il
+riconoscimento è tutto il punto.
+
+**Perché è cambiato rispetto al documento del ciclo.** `filo-narrativo-multiverso.md` prevedeva che
+il frammento fosse portato a Sigil da un PG reduce da *Shadow of the Dragon Queen* (Atto III). I PG
+di questa campagna sono **nuovi** e non vengono da Krynn: il frammento viene quindi **trovato qui**,
+tra gli effetti di un cadavere processato dalla Mortuary. La funzione nel ciclo resta identica — è
+l'oggetto che i PG porteranno in `vecna-eve-of-ruin-dm`, dove si scopre che era una spia, non un
+souvenir.
+
+Non spiegare nulla, non permettere che l'oggetto venga identificato: *individuazione del magico*
+rivela solo una debole aura di divinazione, e nessun incantesimo di questo livello ne cava altro.
+Se i PG lo lasciano lì, va bene — riproponilo tra gli effetti personali che gli Heralds of Dust
+restituiscono, o lascia che Sennik Vaal glielo faccia notare nella Sessione 2.
 
 ### Tappa: M4 — Cella Frigorifera
 
@@ -350,6 +403,8 @@ Dopo aver giocato questa sessione:
 | 6 | Filo Vecna | M9 — Sala degli Archivi | Seminato l'indizio visivo (simbolo mano-occhio) secondo `filo-narrativo-multiverso.md` Atto IV, in forma atmosferica non esplicativa |
 | 7 | Hook PG / Spotlight | — | N/A — party TBD, Agente 3 saltato (vedi nota in testa al file) |
 | 8 | Missioni | — | N/A — nessuna missione secondaria in questa campagna |
+| 9 | Setup | Promemoria Creazione PG | **Aggiunta post-revisione:** riportate in testa al file le regole di creazione del libro (3° livello, +250 mo non magiche, +1 oggetto magico non comune, opzioni MPMM/*Sigil and the Outlands*), assenti da `party.md` e `contesto.md` e necessarie appena il party viene definito |
+| 10 | Filo Vecna | M3 — Sala degli Effetti Personali | **Aggiunta post-revisione:** seminato il frammento di specchio nero, secondo seme dell'Atto IV, finora mancante. Adattato per PG nuovi: il frammento viene **trovato a Sigil** invece di essere portato da Krynn (i PG di questa campagna non vengono da *Shadow of the Dragon Queen*) — vedi `campagna/contesto.md`, sezione Culto di Vecna |
 
-**Totale correzioni applicate:** 6 (righe 1, 3, 6 sono verifiche non correttive)
+**Totale correzioni applicate:** 8 (righe 1, 3, 6 sono verifiche non correttive)
 **Stato:** ✅ Pronto per commit (party TBD — hook personali da aggiungere quando disponibile)
